@@ -1,0 +1,15 @@
+E:\Workspace\C#\Vivt\development_tools\Lesson1\Lesson1\bin\Debug\netcoreapp3.1\Lesson1.exe
+E:\Workspace\C#\Vivt\development_tools\Lesson1\Lesson1\bin\Debug\netcoreapp3.1\Lesson1.deps.json
+E:\Workspace\C#\Vivt\development_tools\Lesson1\Lesson1\bin\Debug\netcoreapp3.1\Lesson1.runtimeconfig.json
+E:\Workspace\C#\Vivt\development_tools\Lesson1\Lesson1\bin\Debug\netcoreapp3.1\Lesson1.runtimeconfig.dev.json
+E:\Workspace\C#\Vivt\development_tools\Lesson1\Lesson1\bin\Debug\netcoreapp3.1\Lesson1.dll
+E:\Workspace\C#\Vivt\development_tools\Lesson1\Lesson1\bin\Debug\netcoreapp3.1\Lesson1.pdb
+E:\Workspace\C#\Vivt\development_tools\Lesson1\Lesson1\obj\Debug\netcoreapp3.1\Lesson1.csprojAssemblyReference.cache
+E:\Workspace\C#\Vivt\development_tools\Lesson1\Lesson1\obj\Debug\netcoreapp3.1\Lesson1.Form1.resources
+E:\Workspace\C#\Vivt\development_tools\Lesson1\Lesson1\obj\Debug\netcoreapp3.1\Lesson1.csproj.GenerateResource.cache
+E:\Workspace\C#\Vivt\development_tools\Lesson1\Lesson1\obj\Debug\netcoreapp3.1\Lesson1.AssemblyInfoInputs.cache
+E:\Workspace\C#\Vivt\development_tools\Lesson1\Lesson1\obj\Debug\netcoreapp3.1\Lesson1.AssemblyInfo.cs
+E:\Workspace\C#\Vivt\development_tools\Lesson1\Lesson1\obj\Debug\netcoreapp3.1\Lesson1.csproj.CoreCompileInputs.cache
+E:\Workspace\C#\Vivt\development_tools\Lesson1\Lesson1\obj\Debug\netcoreapp3.1\Lesson1.dll
+E:\Workspace\C#\Vivt\development_tools\Lesson1\Lesson1\obj\Debug\netcoreapp3.1\Lesson1.pdb
+E:\Workspace\C#\Vivt\development_tools\Lesson1\Lesson1\obj\Debug\netcoreapp3.1\Lesson1.genruntimeconfig.cache
